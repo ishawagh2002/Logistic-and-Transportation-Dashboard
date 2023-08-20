@@ -1,0 +1,10 @@
+# Logistic-and-Transportation-Dashboard
+![azure1](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/794dc876-d70f-429f-8881-694d54d50bb9)
+![azure2](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/3c8abd61-dbf4-4b3a-abc9-93452d8ee5ee)
+![azure3](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/cd547947-cdac-4f41-925f-d244d52e1cda)
+![azure4](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/47171dd2-a446-47be-a4de-cddf88db7c45)
+![azure5](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/51a98693-d9e4-48f4-b2b0-12b1d1f09cbf)
+![SSMS1](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/90797864-2513-4645-9af3-dfbddd1ef056)
+![SSMS2](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/d17b336f-cd3d-4a3e-92cf-0b826dae71c8)
+![SSMS3](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/assets/108747396/bbdbfa09-f939-465d-ac0b-59b2a87865e6)
+[Logistic.pdf](https://github.com/ishawagh2002/Logistic-and-Transportation-Dashboard/files/12388643/Logistic.pdf)
